@@ -9,7 +9,7 @@ data                        存放虚拟机运行数据
 share                       主机与虚拟机共享目录,用来双向传输文件
 share/bitcoin               bitcoin v0.1源代码
 share/Visual C++ 6.0.exe    Visual C++ 6.0安装文件
-compose.yml  用             来启动虚拟机环境
+compose.yml                 用来启动虚拟机环境
 ```
 
 
